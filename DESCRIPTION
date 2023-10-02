@@ -1,0 +1,21 @@
+Package: CompPareto
+Type: Package
+Title: Discrete Composite Distributions with Pareto Tails
+Version: 0.1.0
+Authors@R: 
+  c(person(given = "Bowen",
+           family = "Liu",
+           role = c("aut", "cre"),
+           email = "bowen.liu@umkc.edu"),
+    person(given = "Malwane M.A.",
+           family = "Ananda",
+           role = "aut"))
+Author: Bowen Liu [aut, cre], Malwane M.A. Ananda [aut]
+Maintainer: Bowen Liu <bowen.liu@umkc.edu>
+Description: The package contains basic functions for discrete composite distributions with Pareto tails.
+License: GPL-3
+Encoding: UTF-8
+Imports: actuar, stats
+RoxygenNote: 7.2.3
+NeedsCompilation: no
+Packaged: 2023-10-02 15:21:43 UTC; aber
